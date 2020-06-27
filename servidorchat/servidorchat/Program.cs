@@ -6,7 +6,8 @@ namespace servidorchat
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Servidor servidorPrincipal = new Servidor();
+            servidorPrincipal.Inicio();
         }
     }
 }
