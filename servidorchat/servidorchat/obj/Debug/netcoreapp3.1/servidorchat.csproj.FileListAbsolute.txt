@@ -1,0 +1,11 @@
+D:\proyectos\servidorchat\chatc-\servidorchat\servidorchat\bin\Debug\netcoreapp3.1\servidorchat.exe
+D:\proyectos\servidorchat\chatc-\servidorchat\servidorchat\bin\Debug\netcoreapp3.1\servidorchat.deps.json
+D:\proyectos\servidorchat\chatc-\servidorchat\servidorchat\bin\Debug\netcoreapp3.1\servidorchat.runtimeconfig.json
+D:\proyectos\servidorchat\chatc-\servidorchat\servidorchat\bin\Debug\netcoreapp3.1\servidorchat.runtimeconfig.dev.json
+D:\proyectos\servidorchat\chatc-\servidorchat\servidorchat\bin\Debug\netcoreapp3.1\servidorchat.dll
+D:\proyectos\servidorchat\chatc-\servidorchat\servidorchat\bin\Debug\netcoreapp3.1\servidorchat.pdb
+D:\proyectos\servidorchat\chatc-\servidorchat\servidorchat\obj\Debug\netcoreapp3.1\servidorchat.csprojAssemblyReference.cache
+D:\proyectos\servidorchat\chatc-\servidorchat\servidorchat\obj\Debug\netcoreapp3.1\servidorchat.AssemblyInfoInputs.cache
+D:\proyectos\servidorchat\chatc-\servidorchat\servidorchat\obj\Debug\netcoreapp3.1\servidorchat.AssemblyInfo.cs
+D:\proyectos\servidorchat\chatc-\servidorchat\servidorchat\obj\Debug\netcoreapp3.1\servidorchat.dll
+D:\proyectos\servidorchat\chatc-\servidorchat\servidorchat\obj\Debug\netcoreapp3.1\servidorchat.pdb
